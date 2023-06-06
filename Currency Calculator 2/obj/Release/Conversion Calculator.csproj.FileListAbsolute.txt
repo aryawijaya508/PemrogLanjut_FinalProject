@@ -1,0 +1,30 @@
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\Currency Calculator 2.exe.config
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2.exe
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2.pdb
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\Currency Calculator 2.exe
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\Currency Calculator 2.pdb
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\Newtonsoft.Json.dll
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\RestSharp.dll
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\Newtonsoft.Json.xml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Release\RestSharp.xml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Conversion Calculator.csprojResolveAssemblyReference.cache
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\CurrencyView.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\HomeView.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\MainPage.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\TemperatureView.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\App.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2_MarkupCompile.cache
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2_MarkupCompile.lref
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\App.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Style\ButtonStyles.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\CurrencyView.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\HomeView.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\MainPage.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\View\TemperatureView.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2.g.resources
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency_Calculator_2.Properties.Resources.resources
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Release\Conversion Calculator.csproj.GenerateResource.Cache
+E:\PEMROGRAMAN LANJUT\Final Project\New folder\Conversi Calculator 2 Fix\Currency Calculator 2\Currency Calculator 2\bin\Release\Currency Calculator 2.exe.config
+E:\PEMROGRAMAN LANJUT\Final Project\New folder\Conversi Calculator 2 Fix\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2.exe
+E:\PEMROGRAMAN LANJUT\Final Project\New folder\Conversi Calculator 2 Fix\Currency Calculator 2\Currency Calculator 2\obj\Release\Currency Calculator 2.pdb

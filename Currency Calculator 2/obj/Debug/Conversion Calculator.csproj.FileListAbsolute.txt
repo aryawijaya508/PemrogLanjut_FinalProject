@@ -1,0 +1,26 @@
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\Currency Calculator 2.exe.config
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Currency Calculator 2.exe
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Currency Calculator 2.pdb
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\Currency Calculator 2.exe
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\Currency Calculator 2.pdb
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\Newtonsoft.Json.dll
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\RestSharp.dll
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\Newtonsoft.Json.xml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\bin\Debug\RestSharp.xml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\CurrencyView.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\HomeView.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\MainPage.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\TemperatureView.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\App.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Currency Calculator 2_MarkupCompile.cache
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Currency Calculator 2_MarkupCompile.lref
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\App.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Style\ButtonStyles.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\CurrencyView.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\HomeView.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\MainPage.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\View\TemperatureView.baml
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Currency Calculator 2.g.resources
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Currency_Calculator_2.Properties.Resources.resources
+E:\PEMROGRAMAN LANJUT\Final Project\Currency Calculator 2\Currency Calculator 2\Currency Calculator 2\obj\Debug\Conversion Calculator.csproj.GenerateResource.Cache
